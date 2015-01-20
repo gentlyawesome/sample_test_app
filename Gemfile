@@ -1,7 +1,9 @@
 source 'https://rubygems.org'
 
 gem 'rails'                
-gem 'sass-rails'           
+gem 'bootstrap-sass', '3.2.0.2'
+gem 'sass-rails'
+gem 'autoprefixer-rails'
 gem 'uglifier'             
 gem 'coffee-rails'         
 gem 'jquery-rails'         
