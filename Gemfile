@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails'                
+gem 'bcrypt'                
 gem 'bootstrap-sass', '3.2.0.2'
 gem 'sass-rails'
 gem 'autoprefixer-rails'
